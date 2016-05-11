@@ -7,15 +7,16 @@
 #  / __/ / /_/ __/
 # /_/   /___/_/    Fuzzy finder for your shell
 #
-# Version: 0.8.9 (Dec 24, 2014)
+# Version: 0.9.0 (May 11, 2016)
 # Deprecation alert:
-#          This script is no longer maintained. Use the new Go version.
+#          This script is barely maintained. Use the new Go version if you can.
 #
 # Author:  Junegunn Choi
 # URL:     https://github.com/junegunn/fzf
+# URL:     https://github.com/me-and/fzf
 # License: MIT
 #
-# Copyright (c) 2014 Junegunn Choi
+# Copyright (c) 2016 Junegunn Choi
 #
 # MIT License
 #
